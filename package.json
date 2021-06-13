@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/amourtoyou/egg-jinkens#readme",
   "dependencies": {
-    "egg": "^2.29.4"
+    "egg": "^2.29.4",
+    "egg-mysql": "^3.0.0"
   },
   "devDependencies": {
     "egg-bin": "^4.16.2"

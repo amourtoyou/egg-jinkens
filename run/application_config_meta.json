@@ -149,6 +149,14 @@
     "defaultViewEngine": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-view\\config\\config.default.js",
     "mapping": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-view\\config\\config.default.js"
   },
+  "mysql": {
+    "default": {
+      "database": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-mysql\\config\\config.default.js",
+      "connectionLimit": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-mysql\\config\\config.default.js"
+    },
+    "app": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-mysql\\config\\config.default.js",
+    "agent": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-mysql\\config\\config.default.js"
+  },
   "env": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
   "name": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
   "cookies": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
@@ -178,7 +186,8 @@
     },
     "homepage": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
     "dependencies": {
-      "egg": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js"
+      "egg": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+      "egg-mysql": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js"
     },
     "devDependencies": {
       "egg-bin": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js"
