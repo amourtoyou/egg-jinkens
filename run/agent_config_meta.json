@@ -1,0 +1,277 @@
+{
+  "keys": "F:\\jinkens-egg\\egg-jinkens\\config\\config.default.js",
+  "session": {
+    "maxAge": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-session\\config\\config.default.js",
+    "logValue": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js",
+      "type": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js",
+      "ipExceptionList": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-multipart\\config\\config.default.js",
+    "allowArrayField": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-multipart\\config\\config.default.js",
+      "disable": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideIgnore": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+  "name": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "version": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "description": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "main": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "dev": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+      "test": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+      "url": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "license": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "bugs": {
+      "url": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js"
+    },
+    "homepage": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "strict": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+      "depth": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "env": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "level": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "logging": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+      "port": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "F:\\jinkens-egg\\egg-jinkens\\node_modules\\egg\\config\\config.default.js"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "egg-jinkens",
+  "version": "1.0.0",
+  "description": "a node.js object  for egg.js with jinkend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "egg-bin dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amourtoyou/egg-jinkens.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amourtoyou/egg-jinkens/issues"
+  },
+  "homepage": "https://github.com/amourtoyou/egg-jinkens#readme",
+  "dependencies": {
+    "egg": "^2.29.4"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.16.2"
+  }
+}
