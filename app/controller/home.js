@@ -2,7 +2,7 @@ const Controller = require("egg").Controller;
 
 class HomeController extends Controller {
   async index() {
-    console.log('main');
+    console.log('stage');
     this.ctx.body = "Hello world jinkens two agins";
   }
 }
